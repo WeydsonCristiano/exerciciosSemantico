@@ -1,2 +1,0 @@
-# exerciciosSemantico
-exerciciosSemantico
