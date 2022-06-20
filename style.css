@@ -45,13 +45,13 @@ article {
     font-size: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: auto;
-    width: 70%;
     padding-top: 10px;
 }
 
 main {
     margin: auto;
     display: inline-block;
+    width: 80%;
 }
 
 h3 {
@@ -80,17 +80,15 @@ section {
 
 footer {
     font-size: 25px;
-    margin-top: 10px;
+    margin-top: 15px;
     font-style: italic;
 }
 
 aside {
     width: 20%;
-
     float: right;
 }
 
 .gif {
-    width: 20%;
     float: left;
 }
